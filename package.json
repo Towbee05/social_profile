@@ -1,15 +1,14 @@
 {
   "name": "social_profile",
   "version": "1.0.0",
+  "description": "This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.",
   "main": "app.js",
+
+  "devDependencies": {},
   "scripts": {
-    "build" : "npx tailwindcss -i ./styles.css -o ./dict/output.css --watch"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "description": "",
-  "devDependencies": {
-    "tailwindcss": "^3.4.4"
-  }
+  "license": "ISC"
 }
